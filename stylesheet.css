@@ -74,35 +74,44 @@ a:hover {
   text-decoration: none;
 }
 
-body,
+
+
+p,
+strong,
 td,
 th,
 tr,
-p,
-a {
+body {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 17px
+  font-size: 16px;
+  color:#000000;
 }
 
-strong {
+a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 17px;
+  font-size: 16px;
+  color:#FF8888;
 }
+
+
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
+  color:#FF8888;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 17px;
-  font-weight: 700
+  font-size: 16px;
+  font-weight: 700;
+  color:#FF8888;
 }
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
+  color:#000000;
 }
 
 .one {
